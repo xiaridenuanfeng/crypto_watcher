@@ -56,3 +56,5 @@ python crypto_watcher.py https://example.com/login](https://config.net.cn/tools/
 1. **Hook失效** → 使用「明文输入监听 + 网络请求监听」的时序关联法
 2. **确认使用标准算法** → 直接在本地环境（Python/Node.js）复现加密逻辑
 3. **深度混淆场景** → 下载JS文件进行静态特征扫描分析
+<img width="3838" height="1720" alt="image" src="https://github.com/user-attachments/assets/241dd965-feb8-4a10-ab81-3e57c306f66a" />
+
